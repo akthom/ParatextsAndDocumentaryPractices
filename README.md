@@ -1,10 +1,10 @@
-this directory contains code and files from 
-Weber, N. & Thomer, A. (2014). Paratexts and Documentary Practices: Text Mining Authorship and Acknowledgement from a Bioinformatics Corpus.  In Examining Paratextual Theory and its Applications in Digital Culture. Nadine Desrochers and Daniel Apollon, eds. IGI Global Press. Hershey, Pennsylvania.
-and
-Thomer, A., Weber, N. (2014). Using Named Entity Recognition as a Classification Heuristic.  Poster presented at iConference 2014.  Berlin. http://hdl.handle.net/2142/47362
-and
+this directory contains code and files from <br>
+Weber, N. & Thomer, A. (2014). Paratexts and Documentary Practices: Text Mining Authorship and Acknowledgement from a Bioinformatics Corpus.  In Examining Paratextual Theory and its Applications in Digital Culture. Nadine Desrochers and Daniel Apollon, eds. IGI Global Press. Hershey, Pennsylvania. <br>
+and <br>
+Thomer, A., Weber, N. (2014). Using Named Entity Recognition as a Classification Heuristic.  Poster presented at iConference 2014.  Berlin. http://hdl.handle.net/2142/47362 <br>
+and<br>
 Weber, N., Thomer, A. (2014). Automating the Classification of Author Contribution Statements.  Poster presented at the International Digital Curation Conference.  San Francisco, CA.
-
+<p>
 email us at thomer2@illinois.edu with any questions -- some of these files might be messy.
 
 ParatextExtractor: code using BeautifulSoup to extract a few variables from PubMed articles
