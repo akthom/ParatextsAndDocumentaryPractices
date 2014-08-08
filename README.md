@@ -5,7 +5,7 @@ Thomer, A., Weber, N. (2014). Using Named Entity Recognition as a Classification
 and<br>
 Weber, N., Thomer, A. (2014). Automating the Classification of Author Contribution Statements.  Poster presented at the International Digital Curation Conference.  San Francisco, CA.
 <p>
-email us at thomer2@illinois.edu with any questions -- some of these files might be messy.
+email us at nmweber@illinois.edu and thomer2@illinois.edu with any questions -- some of these files might be messy.
 
 ParatextExtractor: code using BeautifulSoup to extract a few variables from PubMed articles
 Ver1 - first version (adoy) that only extracts acknowledgements marked with JATS <ack> tag
