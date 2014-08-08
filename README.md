@@ -13,6 +13,8 @@ Ver 2 - extracts a broader range of statements and also counts number of authors
 
 BeautifulSoupReplaceHyphens: simple script that replaces "-" with "_" in all xml variable names (BUT NOT attributes).  This makes it possible to actually parse the files in python, because python does not recognize "-" as a valid variable character.  
 
+ParatextNERExtractor.py: pulls out names from NERed text
+
 preprocessedText.txt: first batch of preprocessed text
 
 ProcessedTextWithAuthorTotals.xlsx: excel spreadsheet containing extracted acknowledgment statements + total number of authors per article, as well as some figures from the paper
